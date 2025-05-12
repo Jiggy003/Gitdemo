@@ -22,7 +22,7 @@ public class day1 {
 	public void nonPreq()
 	{
 		System.out.println("I will execute this Last");
-		System.out.println("Yeah!!!");
+		
 	}
 
 }

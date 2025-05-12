@@ -38,6 +38,7 @@ public class day3 {
 	public void MobilesigninCarLoan()
 	{
 		System.out.println("mobile SIGN IN");
+		System.out.println("mobile ooo");
 	}
 	
 	@AfterMethod
